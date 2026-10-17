@@ -1,4 +1,4 @@
-# teco-inactive-customer-reactivate
+# teco-b2b-customer-engagement
 
 激活沉默B2B客户：用新的、真实的业务价值，让客户有理由重新开始对话。
 
@@ -332,7 +332,7 @@ A/B每次只改一个变量，按公司分组，控制阶段和观察窗，报�
 ## 使用Prompt
 
 ```text
-使用 $teco-inactive-customer-reactivate，结合已有信息库，判断这个沉默客户是否适合重新联系，并设计一封激活信息。
+使用 $teco-b2b-customer-engagement，结合已有信息库，判断这个沉默客户是否适合重新联系，并设计一封激活信息。
 
 客户公司/官网与角色：
 产品、市场和渠道：
@@ -352,10 +352,10 @@ A/B每次只改一个变量，按公司分组，控制阶段和观察窗，报�
 
 ## 安装与文件
 
-下载ZIP，将 `teco-inactive-customer-reactivate` 放入宿主Skill目录。现有同名目录先核对和审查再更新；目标目录不存在时可用：
+下载ZIP，将 `teco-b2b-customer-engagement` 放入宿主Skill目录。现有同名目录先核对和审查再更新；目标目录不存在时可用：
 
 ```bash
-git clone https://github.com/tecoatwork/teco-inactive-customer-reactivate.git ~/.codex/skills/teco-inactive-customer-reactivate
+git clone https://github.com/tecoatwork/teco-b2b-customer-engagement.git ~/.codex/skills/teco-b2b-customer-engagement
 ```
 
 `SKILL.md`提供精简执行规则，`README.md`提供详细思路、14类理由、示例和复盘；其余为版权、MIT许可和忽略配置。纯文本，无执行脚本或额外依赖，不自动安装工具。实时研究取决于宿主联网能力。公共版不含私有客户信息，本地版与公共版核心一致；需要时重载Skill或开启新会话。

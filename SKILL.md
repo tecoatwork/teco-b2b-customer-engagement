@@ -1,5 +1,5 @@
 ---
-name: teco-inactive-customer-reactivate
+name: teco-b2b-customer-engagement
 description: 分析B2B沉默线索、停滞商机和流失客户，结合历史障碍、竞品动态、行业机会、消费者痛点、公开差评与我方真实改进，筛选有证据的新联系理由，生成激活邮件或消息、低门槛CTA及后续分支。适用于沉默客户重新开启对话，不替代常规催单或明确拒绝后的追踪。
 license: MIT
 ---
